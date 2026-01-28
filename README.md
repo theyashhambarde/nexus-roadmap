@@ -12,6 +12,12 @@
 IDE with deep cloud integrations, allowing developers to build, deploy, and
 manage production-ready applications in minutes.
 
+## 🏆 Achievement Unlocked: Waitlist Live
+
+We have officially launched our **Pre-launch Waitlist**!
+
+**Secure your spot for early access:** [nexusbuild.in](https://nexusbuild.in/)
+
 > **Note**: Nexus is a **closed-source** product. This repository serves as the
 > central hub for our public roadmap, feature requests, and community
 > discussions.

@@ -34,7 +34,9 @@ We have officially launched our **Pre-launch Waitlist**!
 
 Experience the power of Nexus firsthand. Click below to watch the demo:
 
-[![Watch Nexus Demo](nexus_demo_thumbnail.png)](https://vimeo.com/1158993794)
+[![Watch Nexus Demo](nexus_demo_thumbnail.png)](https://vimeo.com/1159308175?share=copy&fl=sv&fe=ci#t=0)
+
+[**🎥 Watch the full demo video here**](https://vimeo.com/1159308175?share=copy&fl=sv&fe=ci#t=0)
 
 ---
 
